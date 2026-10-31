@@ -1,0 +1,22 @@
+DEFYOX — LISTA DE COMPROBACIÓN ANTES DE PUBLICAR
+
+ESTADO: borradores iniciales. No enviar todavía a Meta como versión definitiva.
+
+[ ] Completar nombre y apellidos del responsable.
+[ ] Completar dirección postal válida del responsable.
+[ ] Confirmar correo: redi15_@hotmail.com.
+[ ] Confirmar qué datos guarda realmente la versión publicada.
+[ ] Verificar configuración y conservación de Unity Authentication y Cloud Save.
+[ ] Identificar proveedores reales de publicidad y añadir finalidades y enlaces a sus políticas.
+[ ] Si se integra Facebook Login, describir datos recibidos, usos y procedimiento de desvinculación/eliminación.
+[ ] Definir edad objetivo y adaptar el tratamiento si puede ser usado por menores.
+[ ] Revisar bases jurídicas, RGPD, transferencias internacionales y plazos.
+[ ] Implementar y probar el borrado real en los servicios que almacenen datos. La página actual solo recibe solicitudes por correo.
+[ ] Subir los archivos al repositorio público Viciooo4/defyox-legal.
+[ ] Activar GitHub Pages desde main / (root).
+[ ] Comprobar ambas URLs desde una ventana privada.
+[ ] Solo entonces copiar las URLs a Meta.
+
+URLs previstas (solo serán válidas cuando GitHub Pages las publique):
+https://viciooo4.github.io/defyox-legal/privacidad.html
+https://viciooo4.github.io/defyox-legal/eliminacion.html
